@@ -1,3 +1,4 @@
+# declare variable with data type number.
 a = 10
 print(a)
 
@@ -5,13 +6,15 @@ b = 30
 print(b)
 print(a * b)
 
-print(id(a))
+# declare variable with data type string.
 string = "hello world"
 print(string)
 
+# declare variable by starting underscore(_) character.
 _underscore = "_hello"
 print(_underscore)
 
+# assign multiple variables in single line
 x, y, z = 20, 35, 40
 print(x, y, z)
 
