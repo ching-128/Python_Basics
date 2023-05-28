@@ -1,3 +1,12 @@
+# Comments :-
+# this is single line comments in python which is started by "#" keyword
+"""
+this is multi line comments in python starting and ending by using three ' " ' symbol
+line no 1
+line no 2
+line no 3
+"""
+
 # declare variable with data type number.
 a = 10
 print(a)
